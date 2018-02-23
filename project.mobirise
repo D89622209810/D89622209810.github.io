@@ -1,0 +1,641 @@
+{
+  "settings": {
+    "name": "ЧАСОВАЯ МАСТЕРСКАЯ 2.2018",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#791817",
+        "#931010",
+        "#2c2c2c"
+      ]
+    },
+    "versionFirst": "4.6.5",
+    "uniqCompNum": 33,
+    "versionPublish": "4.6.5",
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "мастерская по ремонту часов",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#000000",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/shveycarskie-chasi-remont-850x578.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "title": "Ремонт часов",
+                "contentAlign": "left",
+                "text": "Часовая мастерская «Агат» ремонтирует механические, кварцевые, электроные, умные часы, &nbsp;включая, настенные и напольные часы.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/-20180120-235557-1066x977.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "",
+                "contentAlign": "left",
+                "text": "Ремешки, браслеты, клипсы и застежки для часов\n<br>В АГАТ Вы можете установить, укоротить, заменить или купить ремешок, металлический браслет и клипсу для часов.<br>Какие существуют виды ремешков, браслетов и клипс для часов?\n<br>Кожаные ремешки из телячьей кожи\n<br>Кожаные ремешки из крокодиловой кожи\n<br>Силиконовые, каучуковые, пластиковые<br>Металлические браслеты\n<br>Металлические браслеты из миланского плетения",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/htb11ehrizbi8kjjy1zdq6ze1vxal-800x800.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "",
+                "contentAlign": "right",
+                "text": "Наручные часы стальной, пластиковый, корпус для мужчин и женщин. Современный динамичный дизайн. Кожаный, капроновый ремешок или стальной браслет, антибликовое стекло, кварцевый механизм с уникальной точностью.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
+                "overlay": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Темы"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-5",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "text": "<p><b><i>Замена батарейки в часах\n</i></b></p><p>Замена батарейки в кварцевых часах:\n</p><p>Обычный срок службы батарейки в кварцевых часах — от 3 до 5 лет. Понять, что пора заменить батарейку, легко по этим признакам:\n</p><p>\n</p><p>часы отстают\n</p><p>секундная стрелка движется рывками\n</p><p>стрелки разом прыгают через несколько делений</p><p><b><i>Почему не надо заменять часовую батарейку самостоятельно?\r</i></b></p><p>Открыть своими руками корпус часов — несложно. Куда сложнее сделать это не повредив механизм и электронику, а также не задев герметичный защитный контур. Верно закрыть крышку тоже непросто, а вот оставить в итоге корпус негерметичным и уязвимым для попадания влаги — пара пустяков. К тому же, при замене своими руками, велик риск нарваться на дешёвую некачественную батарейку, которая в считанные дни протечёт и выведет из строя механизм. В то же время, опытному часовому мастеру сервис центра КОНСУЛ действительно не составит труда заменить батарейку в кварцевых часах надёжно и оперативно.</p><p><b><i>Преимущества замены батареек в сервис-центрах:\n</i></b></p><p>Обращаясь к нам за сервисными услугами, будьте спокойны за сохранность часов и соответствие результата желаемому. Мы заменим батарейку в наручных часах, строго следуя техническому регламенту производителя. Поэтапно реализация услуги выглядит так:  \n</p><p>\n</p><p>Предварительная проверка элемента питания.\n</p><p>Извлечение нерабочей и установка новой батарейки.\n</p><p>Чистка.\n</p><p>Проверка работоспособности на стенде.\n</p><p>Выставление точного времени.\n</p><p>Сервисный центр АГАТ производит замену батарейки в часах Casio, Tissot, Swatch, Guess, Rado, Orient и других брендов по выгодной цене.&nbsp;</p>",
+          "_tags": [
+            "Темы"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1.18-1400x1083.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "КОЖАНЫЕ РЕМНИ SKAGEN",
+          "text": "<p>Подходит для многих моделей: &nbsp;Отличный ремешок Skagen из натуральной кожи, черного цвета, с белой пряжкой. Гладкой фактуры.Внимание!!! Внешне сходство не означает идиальное сочетание.</p><p>ЦЕНА ОТ 800 РУБ.</p>",
+          "_tags": [
+            "Темы"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-n"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7ac673",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-20180120-235536-1079x1099.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "РЕМЕШКИ ДЛЯ ЧАСОВ SWATCH",
+          "text": "<p>Молодая швейцарская фирма SWATCH поставила перед собой благородную задачу обеспечить покупателей простыми, недорогими, но качественными часами – часами низкой ценовой категории, часами для быта. И эта задача была успешно решена – фирма SWATCH соединила швейцарское качество часов и европейские демократичные цены.<br></p><p>\n</p><p>В нашем интернет-магазине представлены кожаные и силиконовые ремешки SWATCH. Силиконовые ремешки под классическую застежку черного, белого или синего цвета, размера 20 или 23 мм.\n</p><p>\n</p><p>Все ремешки SWATCH, представленные у нас имеют классические, характерные для часов фирмы SWATCH, двойные прорези в местах крепления под шпильки.\n</p><p>\n</p><p>Стоит остановиться на необычных для швейцарских часов застежках на ремешках, представленных у нас. Это, так называемые, застежки-балансиры, где ось крепления находится посередине скобы. Эта особенность кожаных ремешков SWATCH, наряду с двойными прорезями, является их характерной, легкоузнаваемой особенностью.</p><p>ЦЕНА ОТ 300 РУБ.</p>",
+          "_tags": [
+            "Темы"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-r"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-20180120-235517-1080x1124.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "СТАЛЬНЫЕ БРАСЛЕТЫ",
+          "text": "<p>Наш интернет-магазин имеет честь представить небольшую, но очень интересную подборку стальных мужских браслетов для часов фирмы IWATCH У нас представлены наиболее ходовые размеры : 12, 16, 18, 20 и 22 -32мм.\n</p><p>\n</p><p>Браслеты выполнены из полированной высококачественной нержавеющей стали без покрытия, поэтому в процессе носки, контактируя с одеждой,  браслеты самополируются.\n</p><p>\n</p><p>Представленные у нас стальные браслеты имеют удачную оригинальную форму звеньев трех видов: крупные звенья, средние и мелкие. Часовые клипсы – раскладывающиеся автоматы четырех различных конструкций. Наружная клипса с предохранительной скобой идеально подходит для массивного браслета, исключая самопроизвольное раскрытие клипсы.\n</p><p>\n</p><p>Второй интересный тип клипсы – с боковой утопающей кнопкой, встречается достаточно редко и уже этим интересен. Третий тип клипсы: наружная, гладкая, с двумя боковыми кнопками, хорошо смотрится на браслете с мелкими звеньями – эффект контраста. Но наиболее популярным в настоящее время является четвертый, представленный у нас, тип клипсы – компактный автомат. На наружной поверхности клипсы – логотип фирмы.</p><p>ЦЕНА ОТ 300 РУБ</p>",
+          "_tags": [
+            "Темы"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-s"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0..-695x460.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "КАУЧУКОВЫЕ РЕМЕШКИ",
+          "text": "<p>В последнее время повышенным спросом у потребителя пользуются ремешки из натурального каучука: они не коробятся со временем, не боятся воды, не теряют цвет, износостойкие, прочные, позволяющие наносить любой рельеф на поверхность ремешка и, наконец, просто приятные на ощупь и приятные на запах, ибо обрабатываются ароматизаторами.\n</p><p>\n</p><p>Наш магазин предлагает неплохую подборку разноцветных ремешков из натурального каучука. Размеры – самые ходовые: 18 и 20-24 мм. Ремешки равномерны по ширине с заостренным под застежку концом. Застежки классические из нержавеющей полированной стали с логотипом STAILER, CASIO.\n</p><p>\n</p><p>Наружная поверхность ремешков матовая, внутренняя поверхность имеет геометрический орнамент для лучшей вентиляции кожи руки под ремешком. Цвета ремешков: белый, серый, синий, оранжевый (особо популярный у покупательниц), коричневый и черный. Каучуковые ремешки STAILER ароматизированы запахом ванили.</p><p>ЦЕНА ОТ 350 РУБ.</p>",
+          "_tags": [
+            "Темы"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-t"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#931010",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-465x401.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "РЕМЕШКИ MODENO",
+          "text": "<p>Единственно, приметами собственного стиля этой фирмы можно назвать пристрастие к серому цвету (ибо на востоке часто отдают предпочтения полутонам, часто отдается предпочтение матовой поверхности ремешка) и закруглённые концы ремешка под застежку.\n</p><p>\n</p><p>В нашем интернет-магазине представлена линейка кожаных ремешков MODENO несколько цветовых решений: серого, коричневого и черного, размеров 14, 16, 17, 18, 20 и 22 мм, рассчитанные, как для дамских, так и для мужских часов.\n</p><p>\n</p><p>Ремешки выполнены из высококлассной натуральной кожи теленка, имеют матовую поверхность, оснащены белого и жолтого цвета классическими застежками из полированной нержавеющей стали, перфорация под застежку прямоугольная.</p><p>ЦЕНА ОТ 200 РУБ.</p>",
+          "_tags": [
+            "Темы"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-w"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Темы"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "18px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Мастерская-магазин часовые ремешки, батарейки, часы в Хабаровске</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">тел. 8962-220-9810&nbsp;</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/remont_shvecarskih_chasov%20(1)-360x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "watch",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">РЕМОНТ ЧАСОВ &nbsp; &nbsp;с 1969 года.</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-9"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/htb10x-vmvxxxxxvxxxxq6xxfxxxo-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/htb10x-vmvxxxxxvxxxxq6xxfxxxo-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/-225x225.png",
+                "thumb": "@PROJECT_PATH@/assets/images/225x225-225x225.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/htb1ndyfdrstmejjssziq6adwxxaf-750x636.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/htb1ndyfdrstmejjssziq6adwxxaf-750x636-750x636.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/92b-686x945.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/92b-686x945-686x945.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Темы"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-g"
+        },
+        {
+          "_params": {
+            "firstType": "blue",
+            "secondType": "green",
+            "thirdType": "favorite",
+            "fourthType": "orange",
+            "fifthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Бюджетные ремешки",
+          "currency1": "р",
+          "price1": "100",
+          "period1": "",
+          "list1": "<ul><li><b>натуральная кожа</b></li><li><b>пластик</b></li><li><b>капрон-нейлон</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "title2": "БИЗНЕС РЕМЕШКИ",
+          "currency2": "р",
+          "price2": "700",
+          "period2": "",
+          "list2": "<ul><li><b>натуральная кожа</b></li><li><b>нейлон, сатин</b></li><li><b>стальной браслет</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title3": "ПРЕМИУМ",
+          "currency3": "р",
+          "price3": "1200",
+          "period3": "",
+          "list3": "<ul><li><b>натуральная кожа</b></li><li><b>бренды</b></li><li><b>браслеты литтые</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title4": "УЛЬТРО",
+          "currency4": "р",
+          "price4": "3000",
+          "period4": "",
+          "list4": "<ul><li><b>напульсник кожаный</b></li><li><b>экзотическая кожа</b></li><li><br></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Темы"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-o"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "АДРЕС\n<br>г. Хабаровск, ул. Муравьёва- Амурского - 23\n<br>Центральный универмаг 2 этаж\n<br>Режим работы: Пн-Пт 10:00-19:30, Сб-Вс 10:00-18:30\n<br>\n<br>КОНТАКТЫ\n<br>Емейл: D89622209810@gmail.com\n<br>Телефон: 8962-220-9810\n<br>8924-417-2816\n<br><br>",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Темы"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-v"
+        }
+      ]
+    }
+  }
+}
